@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
     const btns = document.querySelectorAll(".nav-btn");
     const slides = document.querySelectorAll(".video-slide");
     const contents = document.querySelectorAll(".content");
-    const texts = document.querySelectorAll(".text");
 
 var sliderNav = function(manual){
     btns.forEach((btn) => {
@@ -22,14 +21,9 @@ var sliderNav = function(manual){
         content.classList.remove("active");
     });
 
-    texts.forEach((text) => {
-        text.classList.remove("active");
-    });
-
     btns[manual].classList.add("active");
     slides[manual].classList.add("active");
     contents[manual].classList.add("active");
-    texts[manual].classList.add("active");
 
 }
 
