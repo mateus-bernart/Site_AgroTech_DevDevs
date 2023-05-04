@@ -2,6 +2,7 @@
 /* Event listner par aver se o DOM carregou antes do JavaScript
  - Um dos problemas enfrentados.
 */
+
 document.addEventListener("DOMContentLoaded", function() {
     // your JavaScript code here
     const btns = document.querySelectorAll(".nav-btn");
@@ -33,6 +34,3 @@ btns.forEach((btn, i) => {
     });
 });
   });
-
-
-    
