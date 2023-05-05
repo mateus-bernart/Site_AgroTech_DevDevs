@@ -39,3 +39,5 @@ Apesar de possuir alguns erros, não ser um site perfeito e nem 100% responsivo,
 
 Obrigado pela atenção, comprometimento e paciência durante essa primeira fase!!!
 E novamente, muito obrigado pela oportunidade! 🚀
+
+Publicação do site na plataforma netlify: https://agrotechftc.netlify.app/
