@@ -2,6 +2,9 @@
 /* Event listner par aver se o DOM carregou antes do JavaScript
  - Um dos problemas enfrentados.
 */
+function goToTop() {
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
 
 document.addEventListener("DOMContentLoaded", function() {
     // your JavaScript code here
