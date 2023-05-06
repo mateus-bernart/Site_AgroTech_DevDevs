@@ -14,7 +14,7 @@ Após um brainstorm, o uso do app Trello foi essencial para manter as atividades
 
 ## Modelagem
 Logo após a decisão de tarefas e organização das ideias, outra ferramenta pra visualização foi aprendida e utilizada: Figma.
-Foi feito a modelagem do site em 2 versões, cada vez mais se adaptando ao nível de complexidade observado na prática, em relação ao tempo disponível.
+Foi feito a modelagem do site em 3 versões, cada vez mais se adaptando ao nível de complexidade observado na prática, em relação ao tempo disponível.
 Ao longo do aprendizado foi melhorando a percepção de utilização da ferramenta e do design aplicado aos sites.
 
 ## ![image](https://user-images.githubusercontent.com/80543817/236385731-7f7decdb-9b62-476d-944c-be026d45bcb6.png)
